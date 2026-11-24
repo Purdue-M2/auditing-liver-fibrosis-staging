@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Auditing Liver Fibrosis Staging under Scanner Shift"
+type: software
+authors:
+  - family-names: Pritha
+    given-names: Asmita Yuki
+  - family-names: Wang
+    given-names: Xin
+  - family-names: Hu
+    given-names: Shu
+repository-code: "https://github.com/Purdue-M2/auditing-liver-fibrosis-staging"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Auditing Liver Fibrosis Staging under Scanner Shift"
+  authors:
+    - family-names: Pritha
+      given-names: Asmita Yuki
+    - family-names: Wang
+      given-names: Xin
+    - family-names: Hu
+      given-names: Shu
+  collection-title: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops"
+  year: 2027

@@ -1,0 +1,17 @@
+# Used on Google Colab GPU runtimes (NVIDIA A100), April to November 2026. Versions were not recorded.
+# Colab already includes most of these; the notebooks install the rest.
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+matplotlib
+torch
+timm
+transformers
+datasets
+huggingface_hub
+nibabel
+SimpleITK
+inmoose          # ComBat
+nnunetv2         # segmentation and notebook 1; notebook 1 installs numpy<2.1 for it

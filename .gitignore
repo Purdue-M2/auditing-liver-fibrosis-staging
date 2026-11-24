@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# images, masks, features and model weights stay out of the repository
+*.nii
+*.nii.gz
+*.npz
+*.npy
+*.pth
+*.pt
+*.zip
+CARE2026_ckpts/

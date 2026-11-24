@@ -153,7 +153,7 @@ If you use this code, please cite:
 
 ## Acknowledgments
 
-Shu Hu is supported by the U.S. National Science Foundation (NSF) under grants IIS-2434967. The views, opinions, and/or findings expressed are those of the author and should not be interpreted as representing the official views of NSF.
+Shu Hu is supported by the U.S. National Science Foundation (NSF) under grant IIS-2434967. The views, opinions, and/or findings expressed are those of the author and should not be interpreted as representing the official views of NSF.
 
 The liver masks come from [nnU-Net](https://github.com/MIC-DKFZ/nnUNet). The radiomic features follow the shape, texture, appearance and direction features of Zhou et al. for CARE 2025 ([code](https://github.com/YangForever/care2025_liver_biodreamer)). The LiFS data come from the CARE liver challenge ([Liu et al., 2026](https://arxiv.org/abs/2605.25595)). MiniCAMELYON17 is from Chehab Lab and is built on the CAMELYON data (Litjens et al., 2018; Bándi et al., 2019; Ehteshami Bejnordi et al., 2017).
 
